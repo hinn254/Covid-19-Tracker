@@ -89,7 +89,8 @@ function App() {
         {/* Haeder */}
         {/* title + select input dropdown */}
         <div className="app__header">
-          <h1>Covide 19 Tracker</h1>
+          <h1>COVID 19 TRACKER</h1>
+          <p>bennyworld</p>
           <FormControl className="app__dropdown">
             <Select
               varaint="outlined"
